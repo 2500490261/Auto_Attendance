@@ -10,7 +10,7 @@ on:
     # 07:05 everyday in UTC+8, 23:05 everyday in UTC+0
   - cron: '00 18 * * *'
 
-#jobs:
+jobs:
   build:
 
     runs-on: ubuntu-latest
